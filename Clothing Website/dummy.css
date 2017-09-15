@@ -1,0 +1,18 @@
+.parallax{
+	background:url(os.png) no-repeat center;
+	background-size:cover;
+	background-attachment: fixed;
+	height: 500px;
+	}
+.container{
+	max-width: 960px;
+	margin: 0 auto;
+	background: #f9f9f9;
+	font-size:24px;
+	padding:25px;
+}
+
+.parallax{
+    min-height: 500px;
+    background: transparent;
+}

@@ -1,0 +1,80 @@
+html, body{
+	overflow:auto;
+	overflow-x: hidden;
+	margin:0;
+	height: 100%;
+	font-family: 'Open-Sans', sans-serif; font-weight: 100;
+	font-size:22px;
+
+}
+
+section{
+	position:relative;
+	margin: 0 -9999rem;
+	padding: 5.25rem 9999rem;
+	text-align: center;
+
+}
+
+#WelcomeSection{
+	background-image: url("kanye.png");
+	font-size: 5vh;
+	background-color: #e74c3c;
+	color: #ecf0f1;
+
+}
+
+#AboutSection{
+	background-color:#c0392b;
+	color:#ecf0f1;
+}
+
+#AboutSection p{
+	padding:0 120px;
+	text-align: left;
+
+}
+
+#SkillSection{
+	background-color: #d35400;
+	color:#ecf0f1; 
+
+}
+
+.sectionImg{
+	position:relative;
+	margin: 0 -9999rem;
+	padding: 5.25rem 9999rem;
+	text-align: center;
+
+}
+
+#WorkSection{
+	background-color: #f39c12;
+	color: #ecf0f1;
+}
+
+img{
+	padding:5px 5px 5px 5px
+}
+
+#ClientSection{
+	background-color: #f1c40f;
+	color:#ecf0f1; 
+
+
+	position:relative;
+	margin: 0 -9999rem;
+	padding: 5.25rem 9999rem;
+	text-align: center;
+
+}
+#ContactSection{
+	background-color:#2c3e50;
+	color:#ecf0f1;
+
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
